@@ -33,9 +33,9 @@ Entity 들의 Relation을 나타내는 Diagram 제곧내 수준으로 모든걸 
 ## ERD 기호와 표기 
 [ERD Symbols and Notation](#refs)
 
-physical data model 을 이해하기 위해 기호와 표기를 살펴보았다.
+대애애충 erd가 뭔지 감은 잡았고 실제 erd를 이해하기 위해 기호와 표기를 살펴보았다.
 
-처음 봤던 [ERD 설명](#erd란-무엇인가)에서 확인한 대부분의 symbol들이 다 conceptual erd에 사용되는 거라서 그냥 넘어가도 될 것 같다.
+우선 conceptual erd의 기호와 표기는 처음 봤던 [ERD 설명](#erd란-무엇인가)에서 확인한 대부분의 symbol들이 다 conceptual erd에 사용되는 거라서 그냥 넘어가도 될 것 같다.
 
 physical ERD symbols도 
 
